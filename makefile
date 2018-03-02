@@ -1,6 +1,6 @@
 CC=g++
 CFLAGS=-Wall -std=c++11 -O3 -pthread
-INCLUDE = -I deps/TNT -I deps/JAMA
+INCLUDE = -I external/TNT -I external/JAMA
 LINK = -L .
 
 all:pca knn
