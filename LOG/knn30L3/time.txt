@@ -1,0 +1,3 @@
+3887 seconds 24 threads 
+K30 L3
+scored 0.95714

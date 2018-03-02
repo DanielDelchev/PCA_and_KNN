@@ -1,0 +1,4 @@
+minimalistic course project for the course in 2017/2018 in FMI.
+Contains multithreaded mplementation of KNN (K nearest neighbours) 
+and implementation of PCA (principal component analysis).
+The data from the MNIST data set in kaggle is used.

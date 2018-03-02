@@ -1,0 +1,5 @@
+time  = 6632
+K = 3
+L = 5
+eigenBasis
+score = 0.97100

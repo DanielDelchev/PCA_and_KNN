@@ -1,0 +1,3 @@
+3972 seconds 24 threads 
+L4, 11 neighbours
+scored 0.96828

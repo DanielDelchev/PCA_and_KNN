@@ -1,0 +1,1 @@
+./../pca demo_train.csv T T demo_test.csv F T pca_demo_train.csv pca_demo_test.csv && ./../knn pca_demo_train.csv pca_demo_test.csv demoResult.txt 3 5 2 0 256 

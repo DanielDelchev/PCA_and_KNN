@@ -1,0 +1,3 @@
+3691 seconds 24 threads 
+weight is (1/dist)^10
+scored 0.84557

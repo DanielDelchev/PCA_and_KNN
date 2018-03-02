@@ -1,0 +1,5 @@
+3691 seconds 24 threads
+L8 
+weight is (1/dist)^10
+scored ~0.75
+time 3897
